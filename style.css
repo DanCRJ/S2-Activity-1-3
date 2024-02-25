@@ -1,0 +1,21 @@
+#page1
+{
+	background-color: #0071A2;
+}
+
+#page2
+{
+	background-color: #048749;
+}
+
+#page3
+{
+	background-color: #73001F;
+}
+
+#h1 , #h2
+{
+	text-align: center;
+	color: white;
+	position: relative;
+}
